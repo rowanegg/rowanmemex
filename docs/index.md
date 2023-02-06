@@ -1,8 +1,8 @@
-# Obsidian Notes
+# Sources
 
 Publish your public notes with MkDocs
 
-## Hello World!
+## My Ideas
 
 The `index.md` in the `/docs` folder is the homepage you see here.
 
