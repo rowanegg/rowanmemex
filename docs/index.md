@@ -1,6 +1,5 @@
 # Sources
-
-Publish your public notes with MkDocs
+[[@dooleyIntroductionRevolutionaryCipher2018.md]]
 
 ## My Ideas
 
